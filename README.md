@@ -1,41 +1,30 @@
-#  Olá, eu sou Adler.  
+#     Olá, me chamo Adler!.
+<br>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
-
-##  Sobre mim
-- Atualmente no **7º período de Ciência da Computação na UFES - Alegre**
+- Atualmente estou no **7º período de Ciência da Computação na UFES - Alegre**
 - Aprendendo **Java & Spring**
 - Focado em **desenvolvimento back-end**
 - Em busca de oportunidade de **estágio na área de desenvolvimento**
 
 
-
----
-
-## Tecnologias e Ferramentas
-<div align="center">
   
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)  
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)  
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)  
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=adlerSousa&show_icons=true&theme=tokyonight" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlerSousa&layout=compact&theme=tokyonight" width="45%" />
+</p>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Adler-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Adler-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Adler-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Adler-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Adler-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Adler-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Adler-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Adler-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
----
-
-## 📊 Estatísticas do GitHub
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adlerSousa&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adlerSousa&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=adlerSousa&theme=radical)  
-
-</div>
-
----
-
+##
 
 <div align="center">
   
@@ -43,12 +32,15 @@
 
 </div>
 
----
 
-## 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/adler-amorim)  
-[![Email](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail)](mailto:adler.amorim2025@gmail.com)
 
----
+## Onde me encontrar
+<div>
+  <a href = "mailto:adler.amorim2025@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/adler-amorim-b73689358" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/adler_amorim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
- _“O melhor jeito de prever o futuro é criá-lo.”_
+
+ _“*Não tenha medo de tentar, tenha medo de não tentar e ver que a vida passou e você não se arriscou como deveria.*
+”_
