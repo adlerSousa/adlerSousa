@@ -27,9 +27,7 @@
 ##
 
 <div align="center">
-  
-![snake gif](https://github.com/adlerSousa/adlerSousa/blob/output/github-contribution-grid-snake.svg)
-
+  <img src="https://github.com/adlerSousa/adlerSousa/raw/output/github-contribution-grid-snake.svg" />
 </div>
 
 
