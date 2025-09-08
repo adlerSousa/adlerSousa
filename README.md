@@ -1,4 +1,4 @@
-#     Olá, me chamo Adler!.
+#     Olá, me chamo Adler!
 <br>
 
 - Atualmente estou no **7º período de Ciência da Computação na UFES - Alegre**
